@@ -11,7 +11,7 @@ U7P4L IN
 
 </br>
 <p align="center">
-      ⚡⚡FB POST ATO COMMENTS⚡⚡
+      EID MUBARAK Animation
 
 </p>
   
@@ -26,17 +26,14 @@ pip install bs4
 pip install futures
 pip install mechanize
 cd $HOME 
-rm -rf FB-CMNT
-git clone --depth=1 https://github.com/U7P4L-IN/FB-CMNT.git
+rm -rf EID_ANIMATION
+git clone --depth=1 https://github.com/U7P4L-IN/EID_ANIMATION.git
 
-cd FB-CMNT
+cd EID_ANIMATION
 
-python CMNT.py 
+python EID.py 
 ```
-#### Screenshots:
-
-<p align="center"><img src="Screenshot_2023-02-20-08-24-00-374_com.termux.jpg">
 
 #### Tools Languages :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=FB-CMNT&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=EID_ANIMATION&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
